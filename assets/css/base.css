@@ -34,8 +34,16 @@ a {
     color: unset;
 }
 
+ol, ul {
+    padding-left: 0 !important;
+}
+
 li {
     list-style-type: none;
+}
+
+img {
+    max-width: 100%;
 }
 
 h2 {
